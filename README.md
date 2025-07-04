@@ -1,4 +1,4 @@
-### Hi there, I'm Alireza Mirzaei! 👋
+### Hi there👋
 
 Welcome to my GitHub profile! I'm a **Backend Developer** and **AI Enthusiast** with expertise in network security and cryptography. I love building scalable applications, secure systems, and exploring the power of artificial intelligence.
 
