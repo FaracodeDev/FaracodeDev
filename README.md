@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a **Backend Developer** and **AI Enthusiast** 
 ---
 
 ### 🚀 About Me
-- 🔹 **Backend Developer** specialized in RESTful frameworks like **FastAPI, Django, and Flask**
-- 📱 **Mobile App Developer** with experience in **Flutter**
+- 🔹 **Backend Developer** specialized in RESTful frameworks like **FastAPI, DjangoRest, and Flask**
+- 📱 **Mobile App Developer** with experience in **Flutter, Next.js**
 - 🐍 **Python Expert** with deep knowledge of network security and cyber defense
 - 🔐 **Security & Cryptography** professional with expertise in penetration testing and secure scripting
 
@@ -36,14 +36,6 @@ Welcome to my GitHub profile! I'm a **Backend Developer** and **AI Enthusiast** 
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaracodeDev&show_icons=true&theme=dark)
-
----
-
-### 🔥 Public Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaracodeDev&repo=GFC&theme=dark)](https://github.com/FaracodeDev/GFC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaracodeDev&repo=League-Of-Mafia&theme=dark)](https://github.com/FaracodeDev/League-Of-Mafia)
-
-*(Replace `GFC` and `League-Of-Mafia` with your actual repository names)*
 
 ---
 
