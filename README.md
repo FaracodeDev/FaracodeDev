@@ -32,10 +32,6 @@ Welcome to my GitHub profile! I'm a **Backend Developer** and **AI Enthusiast** 
 
 🔹 **Book Exchange Mobile App** - A Flutter-based mobile application for users to exchange books seamlessly.
 
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaracodeDev&show_icons=true&theme=dark)
 
 ---
 
